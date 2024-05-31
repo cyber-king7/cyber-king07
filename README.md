@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/cyber-king7/cyber-king07/blob/main/1Modern%20Gaming%20Cover%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm SUSANTA RAJAK</h1>
 <h3 align="center">cyber security professional</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-king7&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-king7" /> </p>
